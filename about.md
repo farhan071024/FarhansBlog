@@ -4,4 +4,5 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+My name is Md. Farhan Haque, I am a PhD student at the department of Electrical and Computer Engineering of The University of Texas at San Antonio.I am also working as Graduate Research Assistant for Institute for Cyber Security at The University of Texas at San Antonio. 
+My Research interest mainly involves Computer and Cyber Security.
