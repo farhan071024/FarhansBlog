@@ -8,13 +8,7 @@
 # Site settings
 title: Md. Farhan Haque
 email: md.farhan.haque@utsa.edu
-<<<<<<< HEAD
 description:  Graduate Research Assistant(PhD Student), Department of Electrical and Computer Engineering, Insitute for Cyber Security, The University of Texas at San Antonio.
-=======
-description:  Write an awesome description for your new site here. You can edit this
-              line in _config.yml. It will appear in your document head meta (for
-              Google search results) and in your feed.xml site description.
->>>>>>> 0b83e8cbdb6c790cab7dc7be657a9dcaa7106b88
 baseurl: "/FarhansBlog" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: jekyllrb
